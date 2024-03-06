@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqU6BfzuzLlFaSEjPijuUBB5gZWKlVVpymssgk10t1zqtY1nY/5eTINFd1Q32SLx3qLc8d7E4mBpFF87CyRc6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sk713\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sk713\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\sk713\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\sk713\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
